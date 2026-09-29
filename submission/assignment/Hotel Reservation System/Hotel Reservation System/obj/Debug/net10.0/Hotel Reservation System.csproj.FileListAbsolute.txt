@@ -1,0 +1,15 @@
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\bin\Debug\net10.0\Hotel Reservation System.exe
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\bin\Debug\net10.0\Hotel Reservation System.deps.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\bin\Debug\net10.0\Hotel Reservation System.runtimeconfig.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\bin\Debug\net10.0\Hotel Reservation System.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\bin\Debug\net10.0\Hotel Reservation System.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.AssemblyInfoInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.AssemblyInfo.cs
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.csproj.CoreCompileInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.sourcelink.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\refint\Hotel Reservation System.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\Hotel Reservation System.genruntimeconfig.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\Hotel Reservation System\Hotel Reservation System\obj\Debug\net10.0\ref\Hotel Reservation System.dll

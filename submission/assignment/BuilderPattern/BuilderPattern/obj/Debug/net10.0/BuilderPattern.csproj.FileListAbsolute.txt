@@ -1,0 +1,14 @@
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.exe
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.deps.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.runtimeconfig.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfo.cs
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\refint\BuilderPattern.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\BuilderPattern\BuilderPattern\obj\Debug\net10.0\ref\BuilderPattern.dll

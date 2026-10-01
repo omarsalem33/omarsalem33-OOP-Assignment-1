@@ -4,11 +4,19 @@ namespace Hotel_Reservation_System.Models;
 
 public class Reservation
 {
+    
+    public int RevervationId { get; init; }
+    public DateTime CheckInDate { get;  }
+    public DateTime CheckOutDate { get;  }
+    public ReservationStatus Status { get; private set; } = ReservationStatus.Pending;
+    public Room Room { get;  }
+    public int TotalNights => (CheckOutDate.Date - CheckInDate.Date).Days;
+    public decimal TotalCost => TotalNights * Room.NightlyRate;
     public Reservation(Room room, DateTime checkIn, DateTime checkOut)
     {
         if (room == null)
         {
-            throw new ArgumentNullException(nameof(Room));
+            throw new ArgumentNullException(nameof(room));
         }
 
         if (room.IsUnderMaintenance)
@@ -24,7 +32,6 @@ public class Reservation
         CheckInDate = checkIn;
         CheckOutDate = checkOut;
     }
-
     public void CheckIn()
     {
         if (Room.IsUnderMaintenance)
@@ -39,8 +46,6 @@ public class Reservation
 
         Status = ReservationStatus.CheckedIn;
     }
-
-
     public void CheckOut()
     {
         if (Status != ReservationStatus.CheckedIn)
@@ -50,7 +55,6 @@ public class Reservation
 
         Status = ReservationStatus.CheckedOut;
     }
-
     public void Confirm()
     {
         if (Status != ReservationStatus.Pending)
@@ -58,7 +62,6 @@ public class Reservation
 
         Status = ReservationStatus.Confirmed;
     }
-
     public void Cancel()
     {
         if (Status != ReservationStatus.CheckedOut)
@@ -70,12 +73,4 @@ public class Reservation
     }
 
 
-    public int RevervationId { get; init; }
-    public DateTime CheckInDate { get; init; }
-    public DateTime CheckOutDate { get; init; }
-    public ReservationStatus Status { get; private set; } = ReservationStatus.Pending;
-    public Room Room { get; init; }
-
-    public int TotalNights => (CheckOutDate.Date - CheckInDate.Date).Days;
-    public decimal TotalCost => TotalNights * Room.NightlyRate;
 }

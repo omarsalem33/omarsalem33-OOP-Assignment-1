@@ -1,0 +1,15 @@
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\bin\Debug\net10.0\OOP Assignment 1.exe
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\bin\Debug\net10.0\OOP Assignment 1.deps.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\bin\Debug\net10.0\OOP Assignment 1.runtimeconfig.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\bin\Debug\net10.0\OOP Assignment 1.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\bin\Debug\net10.0\OOP Assignment 1.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.AssemblyInfoInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.AssemblyInfo.cs
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.csproj.CoreCompileInputs.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.sourcelink.json
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\refint\OOP Assignment 1.dll
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.pdb
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\OOP Assignment 1.genruntimeconfig.cache
+D:\.NET Course\Assignments\C# Assingments\omarsalem33-OOP-Assignment-1\submission\assignment\cpp-procedural-order\Part1_ProceduralToOOP\OOP Assignment 1\obj\Debug\net10.0\ref\OOP Assignment 1.dll
